@@ -9,3 +9,6 @@ IPyAudio(input_path)  # Optional: plays back the audio in notebook
 wav_path = convert_to_wav(input_path)
 transcribed_text = speech_to_text(wav_path)
 print("\n=== TRANSCRIPTION ===\n", transcribed_text)
+
+
+use 
