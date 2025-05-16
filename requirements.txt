@@ -2,3 +2,4 @@ pydub
 openai-whisper
 easyocr
 glob
+ffmpeg-python
